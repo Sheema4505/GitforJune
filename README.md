@@ -1,2 +1,2 @@
 # GitforJune
- this is just for learning person
+ this is just for learning purpose
